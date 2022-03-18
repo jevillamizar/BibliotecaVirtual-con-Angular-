@@ -1,0 +1,22 @@
+<app-slider ></app-slider>
+
+<div class="center">
+    <section id="content">       
+        
+        <h1 class="subheader">Libros</h1>
+
+        <div id="articles" *ngIf="books">
+            <article class="article-item" *ngFor="let book of books">                
+                <h2>{{book.title}}</h2>
+                <span class="date">
+                   Registrado: {{book.date}}
+                </span>                
+                <a [routerLink]="['/book', book._id]">Leer más</a>
+                <div class="clearfix"></div>
+            </article>
+        </div>
+        
+    </section>
+
+    <app-sidebar></app-sidebar>
+</div>

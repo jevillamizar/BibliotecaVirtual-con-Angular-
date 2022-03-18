@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "62338c571de9d7939f78a462"
+  },
+  "date": {
+    "$date": "2022-03-17T19:30:31.833Z"
+  },
+  "title": "Teoria de circuitos y Dispositivos Electrónicos",
+  "author": "ROBERT L.BOYLESTAD, LOUIS NASHELSKY",
+  "ISBN": "978-607-442-292-4",
+  "pages": "912",
+  "dateP": {
+    "$date": "2009-01-01T00:00:00Z"
+  },
+  "content": "Para cursos de nivel superior en dispositivos y circuitos, en institutos de ingeniería y tecnología de 2 o 4 años. Altamente preciso y completamente actualizado, este texto ha establecido el estándar en dispositivos electrónicos y teoría de circuitos durante más de 25 años. Boylestad ofrece a los estudiantes una encuesta completa e integral, enfocándose en todos los elementos esenciales que necesitarán para tener éxito en el trabajo. Esta presentación muy legible está respaldada por una sólida pedagogía y contenido que es ideal para los nuevos estudiantes de este campo que cambia rápidamente. Su diseño colorido y amigable para los estudiantes cuenta con una gran cantidad de fotografías impresionantes. Una amplia gama de materiales auxiliares está disponible para el apoyo del instructor.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62338d1b1de9d7939f78a464"
+  },
+  "date": {
+    "$date": "2022-03-17T19:33:47.344Z"
+  },
+  "title": "Antenas",
+  "author": "Ángel Cardama Aznar",
+  "ISBN": "84-8301-625-7",
+  "pages": "460",
+  "dateP": {
+    "$date": "1998-01-01T00:00:00Z"
+  },
+  "content": "En este libro se presentan los métodos fundamentales de análisis de antenas con un nivel de detalle que permite comprender sus principios de funcionamiento y conocer los parámetros de diseño que son de interés práctico. Es un texto autocontenido, que sólo requiere conocimientos previos básicos de electromagnetismo, estructurado de modo que el lector pueda progresar gradualmente a lo largo de los sistemas radiantes que se emplean habitualmente en radiodifusión, radiocomunicaciones, comunicaciones móviles, radar y telecomunicación espacial.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623395831de9d7939f78a466"
+  },
+  "date": {
+    "$date": "2022-03-17T20:09:39.362Z"
+  },
+  "title": "Electricidad y magnetismo Novena edicion",
+  "author": "Raymond A. Serway",
+  "ISBN": "978-607-522-490-9",
+  "pages": "73",
+  "dateP": {
+    "$date": "2014-01-01T00:00:00Z"
+  },
+  "content": "Como en ediciones anteriores, este libro lo formas los 12 primeros capítulo del Volumen II de Física Para Ciencias e Ingenierías. Así, se cubre el curso de Electricidad y magnetismo en las escuelas de ingeniería y ciencias en las que se imparte de manera separada los temas de física.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623397491de9d7939f78a468"
+  },
+  "date": {
+    "$date": "2022-03-17T20:17:13.538Z"
+  },
+  "title": "Fundamentos matemáticos de la ingeniería II: Cálculo diferencial e integral",
+  "author": "Miguel Barreda Rochera y José Antonio López Orti",
+  "ISBN": "978-607-522-490-9",
+  "pages": "235",
+  "dateP": {
+    "$date": "2010-01-01T00:00:00Z"
+  },
+  "content": "Los capítulos seleccionados por los autores en este segundo manual de primer curso de ingeniería, se corresponden con los impartidos en el segundo cuatrimestre de la asignatura Fundamentos Matemáticos de la Ingeniería de la titulación de IT de Telecomunicación en la EPSG, y son: cálculo diferencial de funciones de varias variables, aplicaciones del cálculo diferencial, series numéricas, desarrollos en series de potencias y de Fourier, integral doble y triple, integrales de superficie. Atendiendo a las necesidades del nuevo Espacio Europeo de Educación Superior, incorporamos una colección suficiente de ejercicios con sus correspondientes soluciones así como actividades relacionadas con otras asignaturas de la titulación",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623397de1de9d7939f78a46a"
+  },
+  "date": {
+    "$date": "2022-03-17T20:19:42.638Z"
+  },
+  "title": "Pyton para todos",
+  "author": "Raúl González Duque",
+  "ISBN": "978-607-522-490-9",
+  "pages": "160",
+  "dateP": {
+    "$date": "2010-01-01T00:00:00Z"
+  },
+  "content": "Los algoritmos genéticos son una de las herramientas que puedes usar para aplicar el aprendizaje automático al hallazgo de soluciones buenas (a veces incluso óptimas) a problemas que tienen miles de millones de soluciones posibles. Este libro te ofrece experiencia en hacer que los algoritmos genéticos funcionen, usando proyectos de ejemplo fáciles de seguir a los que puedes recurrir cuando aprendas a usar otras herramientas y técnicas de aprendizaje automático. Cada capítulo es un tutorial paso a paso que te ayuda a desarrollar tus habilidades en el uso de los algoritmos genéticos para resolver problemas usando Python.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623398031de9d7939f78a46c"
+  },
+  "date": {
+    "$date": "2022-03-17T20:20:19.203Z"
+  },
+  "title": "Chess Teaching Manual",
+  "author": "Raúl González Duque",
+  "ISBN": "978-607-522-490-9",
+  "pages": "303",
+  "dateP": {
+    "$date": "1997-01-01T00:00:00Z"
+  },
+  "content": "Como Tal indica en su prólogo, su proísto al publicar un libro de estas carcterística no era el de competir con otros similares, sino precisamente dar a conocer las sensaciones subjetivas, las ideas, emociones que le asaltaron durante un encuentro tan tenso como el Match por el Campeonatod el Mundo",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "623398731de9d7939f78a46e"
+  },
+  "date": {
+    "$date": "2022-03-17T20:22:11.185Z"
+  },
+  "title": "Opera Magistris. Compendium on Elementary Applied Mathematics for Engineers",
+  "author": "Vincent Isoz , Léon Harmel",
+  "ISBN": "CC-BY-NC-ND",
+  "pages": "5455",
+  "dateP": {
+    "$date": "1997-01-01T00:00:00Z"
+  },
+  "content": "Ningún esfuerzo humano ha tenido más impacto que la Ciencia en nuestras vidas y nuestra concepción del mundo y de nosotros mismos. Sus teorías, conquistas y resultados están a nuestro alrededor. Este libro explica los conceptos básicos subyacentes a las Matemáticas aplicadas, brinda instrucciones sobre cómo usar varias familias de modelos y brinda una descripción general de una variedad de subtemas del amplio campo que comprende las Matemáticas aplicadas. Proporcionando una introducción a las Matemáticas Aplicadas de los ingenieros, este texto guía al lector paso a paso a través de los conceptos básicos y prácticas de esta metodología. No deberían ser necesarios cursos o títulos especiales, porque este libro utiliza un lenguaje sencillo y ejemplos y demostraciones fácilmente comprensibles para introducir una amplia teoría de fondo. La atención se centra en proporcionar al lector habilidades de trabajo y una mente crítica.",
+  "__v": 0
+}]
